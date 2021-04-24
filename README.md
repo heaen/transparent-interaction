@@ -1,6 +1,9 @@
 # Transparent Interaction
 
-Foobar is a Python library for dealing with word pluralization.
+Transparent Interaction is a project to provide an inclusive way of digital communication.
+
+Communication is a tool to which everyone must have the right and the appropriate means to implement it.
+Our communication today is diverse and has changed a lot - thanks to the use of emojis. People with impaired vision have great difficulty understanding emojis in their context. In cooperation with users, the concept was created to transfer emojis into haptic vibration patterns in order to generate the respective emotion behind the emoji in the user.
 
 ## Installation
 
