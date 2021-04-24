@@ -11,6 +11,9 @@ To run the code, you need to install processing and arduino.
 processing: graphical user interface (P3)
 arduino: needed to control the vibration motors (I recommend using th web editor)
 
+If you need to prepare your board, use firmata.
+https://www.arduino.cc/en/Reference/Firmata
+
 
 ## Usage
 
