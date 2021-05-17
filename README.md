@@ -16,6 +16,13 @@ For more information:
 https://github.com/firmata/arduino#firmata-client-libraries
 
 
+## Wiring
+
+![Fritzing_Helen_ProjektWi1920_Ardu](https://user-images.githubusercontent.com/50454077/118482618-43864000-b715-11eb-8c4a-d898bfc7a668.png)
+![Fritzing_Helen_ProjektWi1920_Schaltplan](https://user-images.githubusercontent.com/50454077/118482624-46813080-b715-11eb-8a95-0c927983f61d.png)
+
+
+
 ## Usage
 
 ```processing
